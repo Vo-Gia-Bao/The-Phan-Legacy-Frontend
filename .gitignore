@@ -22,3 +22,9 @@ dist-ssr
 *.sw?
 
 /public/marzipano/
+/public/img
+
+server/db/**/*.db
+server/db/**/*.db-wal
+server/db/**/*.db-shm
+server/dist/
